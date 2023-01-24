@@ -1,12 +1,6 @@
 package pkg1;
 
-public class C1
+public class C1 //in SIT Branch
 {
-
-	public static void main(String[] args)
-	{
-		//*******************
-
-	}
 
 }
